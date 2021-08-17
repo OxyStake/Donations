@@ -1,1 +1,15 @@
 
+
+- ticker: OXYGN
+
+  recipient: 
+    name: Great Barrier Reef Foundation
+    address: Level 11, 300 Ann Street, Brisbane, QLD Australia
+    tel: +61 7 3252 7555
+    contact: giving@greatbarrierreef.org
+
+  ada: 71.4285714
+  usd: 75
+  timestamp: 1630967347
+
+  files: oxygenpool.io
